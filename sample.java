@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class sample
 {
 public static void main(String[] args)
@@ -12,4 +13,12 @@ System.out.print("Even");
 else
 System.out.print("Odd");
 }
+=======
+class sample
+{
+public static void main(String[] args)
+{
+System.out.print("Hello World");
+}
+>>>>>>> ab07343c6b2af036fb0d8c923f27f1f165ef29d9
 }
