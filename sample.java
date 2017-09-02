@@ -2,6 +2,14 @@ class sample
 {
 public static void main(String[] args)
 {
-System.out.print("Hello World");
+int input;
+Scanner sc = new Scanner(System.in);
+input = sc.nextInt();
+if(input<0)
+System.out.print("Incorrect Input");
+else if(input%2==0)
+System.out.print("Even");
+else
+System.out.print("Odd");
 }
 }
