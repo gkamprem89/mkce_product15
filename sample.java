@@ -6,7 +6,6 @@ int input;
 Scanner sc = new Scanner(System.in);
 input = sc.nextInt();
 if(input<0)
-System.out.print("Incorrect Input");
 else if(input%2==0)
 System.out.print("Even");
 else
