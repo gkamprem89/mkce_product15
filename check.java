@@ -6,8 +6,8 @@ int input;
 Scanner sc = new Scanner(System.in);
 input = sc.nextInt();
 if(input>1)
-System.out.print(0);
-else
 System.out.print(input);
+else
+System.out.print(0);
 }
 }
