@@ -10,4 +10,5 @@ System.out.print(input);
 else
 System.out.print(0);
 }
+  System.out.print('Hello');
 }
