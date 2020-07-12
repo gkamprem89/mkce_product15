@@ -11,5 +11,5 @@ else
 System.out.print(0);
 }
   System.out.print('Hello');
-  System.out.print('Hello World sample');
+  System.out.print('Hello World champ');
 }
